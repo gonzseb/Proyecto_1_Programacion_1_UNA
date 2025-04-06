@@ -9,12 +9,7 @@ Este es un proyecto desarrollado para Programación 1 de la Universidad Nacional
 
 ## ⚙️ Compilación Manual
 
-Puedes compilar el proyecto desde la terminal con:
-
-```bash
-g++ src/*.cpp -o Programa
-./Programa
-```
+Puede utilizar su entorno de desarrollo preferido o utilizar un compilador de C++ desde consola.
 
 ## ✅ Requisitos
 
