@@ -1,4 +1,4 @@
-# Proyecto de Programación en C++
+# Proyecto 1 de Programación 1 en C++
 
 Este es un proyecto desarrollado para Programación 1 de la Universidad Nacional de Costa Rica.
 
