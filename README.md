@@ -1,11 +1,11 @@
 # Proyecto de Programación en C++
 
-Este es un proyecto desarrollado para la materia de Programación 1.
+Este es un proyecto desarrollado para Programación 1 de la Universidad Nacional de Costa Rica.
 
 ## 📁 Estructura del Proyecto
 
 - `/src/` → Contiene todos los archivos fuente `.cpp` y `.h`.
-- `/data/` → Contiene archivos de entrada como `.txt` con información del sistema.
+- `/data/` → Contiene archivos de entrada como `.txt` para cargar de datos al sistema.
 
 ## ⚙️ Compilación Manual
 
