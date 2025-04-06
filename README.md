@@ -24,5 +24,5 @@ g++ src/*.cpp -o Programa
 
 ## 📌 Notas
 
-- El proyecto no incluye una solución de Visual Studio, pero puede crearse fácilmente si lo deseas.
+- El proyecto no incluye una solución de Visual Studio, pero puede crearse fácilmente si se desea.
 - Todos los archivos están organizados para facilitar la lectura y compilación manual."# Proyecto_1_Programacion_1_UNA" 
